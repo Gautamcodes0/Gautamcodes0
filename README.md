@@ -2,13 +2,13 @@
 
 A passionate Data Analyst from India 
 
-📩 Email Me 👉 ✉️ Gautam.analutics01@gmail.com for Collaboration / Projects / or Anything Else 😊😊  
+📩 Email Me 👉 ✉️ gautam.analytics01@gmail.com for Collaboration / Projects / or Anything Else 😊😊  
 🔭 I’m currently working on: Blinkit Sales Data Analysis (SQL + Power BI) and building insightful dashboards  
 🌱 I’m currently learning: Advanced SQL, Power BI DAX, and Python for Data Analysis  
 👯 I’m looking to collaborate on:Data Analytics and Visualization Projects that drive real business impact  
 🤔 I’m looking for help with: Improving data storytelling and dashboard performance optimization  
 💬 Ask me about: Data Cleaning, SQL Queries, Power BI Dashboards, and Analytics Workflows  
-📫 How to reach me: Gautam.analutics01@gmail.com  
+📫 How to reach me: gautam.analytics01@gmail.com  
 😄 Pronouns: Gautam Sir
 ⚡ Fun fact: I Love Data — and Data Loves Me! ❤️
 ## 🌐 Socials:
